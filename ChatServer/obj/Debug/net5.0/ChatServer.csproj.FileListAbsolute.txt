@@ -1,0 +1,16 @@
+C:\Users\Delta\source\repos\Chat\ChatServer\bin\Debug\net5.0\ChatServer.exe
+C:\Users\Delta\source\repos\Chat\ChatServer\bin\Debug\net5.0\ChatServer.deps.json
+C:\Users\Delta\source\repos\Chat\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+C:\Users\Delta\source\repos\Chat\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+C:\Users\Delta\source\repos\Chat\ChatServer\bin\Debug\net5.0\ChatServer.dll
+C:\Users\Delta\source\repos\Chat\ChatServer\bin\Debug\net5.0\ref\ChatServer.dll
+C:\Users\Delta\source\repos\Chat\ChatServer\bin\Debug\net5.0\ChatServer.pdb
+C:\Users\Delta\source\repos\Chat\ChatServer\obj\Debug\net5.0\ChatServer.csproj.AssemblyReference.cache
+C:\Users\Delta\source\repos\Chat\ChatServer\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delta\source\repos\Chat\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Delta\source\repos\Chat\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+C:\Users\Delta\source\repos\Chat\ChatServer\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Delta\source\repos\Chat\ChatServer\obj\Debug\net5.0\ChatServer.dll
+C:\Users\Delta\source\repos\Chat\ChatServer\obj\Debug\net5.0\ref\ChatServer.dll
+C:\Users\Delta\source\repos\Chat\ChatServer\obj\Debug\net5.0\ChatServer.pdb
+C:\Users\Delta\source\repos\Chat\ChatServer\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
